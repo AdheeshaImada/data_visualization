@@ -1,0 +1,4 @@
+matplotlib>=3.8,<4
+plotly>=5.18,<7
+requests>=2.31,<3
+beautifulsoup4>=4.12,<5

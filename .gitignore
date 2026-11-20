@@ -1,0 +1,20 @@
+# Virtual environments and Python build/cache files
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Generated charts / downloaded reports
+outputs/
+*.html
+
+# OS files and archives
+.DS_Store
+Thumbs.db
+*.zip
